@@ -1,0 +1,63 @@
+.home{
+    margin-top: 85px;
+    
+}
+.home-a{
+    background-color: #edf3f3;;
+    color:  rgb(46, 46, 46);
+    font-family:"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder",sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    float: center;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 570px;
+}
+.head-1{
+    text-align: center;
+    float: center;
+    font-family: "Plus Jakarta Sans",sans-serif;
+    font-size: 75px;
+    font-weight: 800;
+    color: rgb(45, 45, 45);
+}
+.head-2{
+    text-align: center;
+    float: center;
+    font-family: "Plus Jakarta Sans",sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(107, 107, 120);
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+
+.home-btn{
+    text-align: center;
+    align-items: center;
+    float: center;
+    font-family: "Plus Jakarta Sans","Plus Jakarta Sans", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    margin-top: 35px;
+    background-color: rgb(44, 44, 44);
+    border-radius: 10px;
+    padding: 15px;
+    margin-left: 570px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 35px;
+}
+
+.head-3{
+    text-align: center;
+    float: center;
+    font-family: "Plus Jakarta Sans",sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgb(107, 107, 120);
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
